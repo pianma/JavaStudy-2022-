@@ -1,11 +1,17 @@
-package Car;
+package ex05;
 
-public class CarExample {
+public class Car {
+
+    int speed;
+
+    void run() {
+
+    }
+
     public static void main(String[] args) {
         Car mycar = new Car();
-
+        mycar.speed = 60;
         System.out.println(mycar.speed);
-        System.out.println(mycar.getspeed());
-        mycar.run();
+
     }
 }

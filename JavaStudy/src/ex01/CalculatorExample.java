@@ -1,4 +1,4 @@
-package Calculator;
+package ex01;
 
 public class CalculatorExample {
 
@@ -9,4 +9,3 @@ public class CalculatorExample {
         c1.plus(10, 20);
     }
 }
-

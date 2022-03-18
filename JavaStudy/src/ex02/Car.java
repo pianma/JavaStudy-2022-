@@ -1,4 +1,4 @@
-package Car;
+package ex02;
 
 public class Car {
     int speed;

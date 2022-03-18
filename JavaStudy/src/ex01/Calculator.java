@@ -1,4 +1,4 @@
-package Calculator;
+package ex01;
 
 public class Calculator {
     void powerOn() {
